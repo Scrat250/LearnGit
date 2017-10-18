@@ -7,4 +7,4 @@ Git is free software.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
-µÚËÄ´ÎÐÞ¸Ä
+ç¬¬ä¸€æ¬¡ä¿®æ”¹
